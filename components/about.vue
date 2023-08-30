@@ -24,7 +24,7 @@
       </div>
 
       <div class="about__image">
-        <img src="images/caroline.jpg" alt="">
+        <img src="@/public/images/caroline.jpg" alt="">
       </div>
     </div>
   </section>

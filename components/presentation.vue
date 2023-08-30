@@ -7,7 +7,7 @@
 .presentation {
   width: 100%;
   height: 100vh;
-  background-image: url('/images/presentation.jpg');
+  background-image: url('./images/presentation.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -18,7 +18,7 @@
     display: flex;
     width: 100%;
     height: 100vh;
-    background-image: url('/images/logo-presentation.png');
+    background-image: url('./images/logo-presentation.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@
     }
 
     @media (max-width: 768px) {
-      background-image: url('/images/simbolo-presentation.png');
+      background-image: url('./images/simbolo-presentation.png');
     }
   }
 
